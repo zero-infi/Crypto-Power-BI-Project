@@ -11,11 +11,11 @@
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
 ## Project Architecture
-* [Overview](https://github.com/mohit11R/CryptoCurrency-Analysis#overview)
-* [Prerequisite](https://github.com/mohit11R/CryptoCurrency-Analysis#Prerequisite)
-* [File Structure](https://github.com/mohit11R/CryptoCurrency-Analysis#File-Structure)
-* [Dashboard](https://github.com/mohit11R/CryptoCurrency-Analysis#Dashboard)
-* [Report Insight](https://github.com/mohit11R/CryptoCurrency-Analysis#Report-Insight)
+* [Overview](https://github.com/zero-infi/Crypto-Power-BI-Project#overview)
+* [Prerequisite](https://github.com/zero-infi/Crypto-Power-BI-Project#Prerequisite)
+* [File Structure](https://github.com/zero-infi/Crypto-Power-BI-Project#File-Structure)
+* [Dashboard](https://github.com/zero-infi/Crypto-Power-BI-Project#Dashboard)
+* [Report Insight](https://github.com/zero-infi/Crypto-Power-BI-Project#Report-Insight)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -64,9 +64,9 @@ CryptoCurrencyData
 
 ## Dashboard
 
-![alt-image](https://github.com/mohit11R/CryptoCurrency-Analysis/blob/main/CryptoCurrencyData/crypto1.png?raw=true)
+![alt-image](https://github.com/zero-infi/Crypto-Power-BI-Project/blob/main/CryptoCurrencyData/crypto1.png?raw=true)
 
-![alt-image](https://github.com/mohit11R/CryptoCurrency-Analysis/blob/main/CryptoCurrencyData/crypto2.png?raw=true)
+![alt-image](https://github.com/zero-infi/Crypto-Power-BI-Project/blob/main/CryptoCurrencyData/crypto2.png?raw=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
